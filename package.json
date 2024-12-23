@@ -1,0 +1,36 @@
+{
+  "name": "baking-options-kit",
+  "version": "1.0.0",
+  "description": "A comprehensive package for customizing cakes, cupcakes, and cookies with various options.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "baking",
+    "cakes",
+    "cupcakes",
+    "cookies",
+    "frosting",
+    "toppings",
+    "fillings",
+    "baking-options",
+    "cake-decorating",
+    "recipe-options"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianHenry15/baking-options-kit.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "echo \"Write tests!\"",
+    "prepublishOnly": "npm run build"
+  },
+  "author": "Adrian Henry",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
