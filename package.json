@@ -1,6 +1,6 @@
 {
   "name": "baking-options-kit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A comprehensive package for customizing cakes, cupcakes, and cookies with various options.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
