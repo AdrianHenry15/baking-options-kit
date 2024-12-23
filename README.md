@@ -10,6 +10,11 @@ The **Baking Options Kit** is a comprehensive package that provides a wide array
 
 This package offers a flexible way to integrate a wide variety of customization options for cakes, cupcakes, and cookies into your bakery app or project.
 
+## Examples
+[Bakery Options Kit Example](https://bakery-option-kit-example.vercel.app/)
+
+[Bakery Options Kit Example Repository](https://github.com/AdrianHenry15/bakery-option-kit-example)
+
 ## Installation
 
 To install the package, run the following command:
