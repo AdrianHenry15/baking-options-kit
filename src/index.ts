@@ -1,4 +1,4 @@
-export * from "./constants/cakes"
-export * from "./constants/cupcakes"
-export * from "./constants/cookies"
+export * from "./constants/sweet/cakes"
+export * from "./constants/sweet/cupcakes"
+export * from "./constants/sweet/cookies"
 export * from "./types"
