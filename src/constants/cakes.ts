@@ -1,4 +1,4 @@
-import { CakeShapeSizeType } from "../../types"
+import { CakeShapeSizeType } from "../types"
 
 /**
  * A list of cake shape and size combinations with their corresponding servings.
